@@ -1,0 +1,6 @@
+Requirement gathering and analysis
+Design
+Implimention
+Testing
+Deployment
+Maintenance
